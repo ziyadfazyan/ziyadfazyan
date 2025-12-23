@@ -53,7 +53,7 @@ Hi, I'm **Ziyad Fazyan** — a developer who sees technology as more than just t
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyad-fazyan&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ziyad-fazyan&limit=5&theme=dark&combine_all_yearly_contributions=true)
